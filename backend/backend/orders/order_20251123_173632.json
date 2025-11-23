@@ -1,0 +1,9 @@
+{
+  "drinkType": "Cappuccino",
+  "size": "medium",
+  "milk": "Coconut milk",
+  "extras": [
+    "No extras"
+  ],
+  "name": "Sonu"
+}

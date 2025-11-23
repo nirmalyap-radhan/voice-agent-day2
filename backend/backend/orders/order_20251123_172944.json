@@ -1,0 +1,9 @@
+{
+  "drinkType": "Cappuccino",
+  "size": "Medium",
+  "milk": "Coconut milk",
+  "extras": [
+    "[]"
+  ],
+  "name": "Gudu"
+}
